@@ -1,0 +1,27 @@
+
+battleofnamek.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+caveman
+  rotate: false
+  xy: 1902, 1202
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+knight
+  rotate: false
+  xy: 2, 2
+  size: 256, 258
+  orig: 256, 258
+  offset: 0, 0
+  index: -1
+namek
+  rotate: false
+  xy: 2, 262
+  size: 1898, 1068
+  orig: 1898, 1068
+  offset: 0, 0
+  index: -1
